@@ -1,0 +1,35 @@
+.feature{
+    position: absolute;
+    top: 70px;
+    left: 30px;
+    width: 300px;
+    background-color: #8da3a7ad;
+    height: 80px;
+    display: inline;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.feature>div{
+  display: inline;
+  margin: 0 5px;
+}
+
+.feature-objects{
+    position: absolute;
+    top: 70px;
+    right: 30px;
+    width: 300px;
+    background-color: #a7978dad;
+    height: 80px;
+    display: inline;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.feature-objects>div{
+  display: inline;
+  margin: 0 5px;
+}

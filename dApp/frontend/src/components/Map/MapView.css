@@ -1,0 +1,39 @@
+.ol-map {
+    height: 100vh;
+    width: 100vw;
+  }
+  .ol-control {
+    position: absolute;
+    background-color: rgba(255,255,255,0.4);
+    border-radius: 4px;
+    padding: 2px;
+  }
+  /* .ol-full-screen {
+    top: .5em;
+    right: .5em;
+  } */
+  canvas{
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+.feature-objects{
+    position: absolute;
+    top: 70px;
+    right: 30px;
+    width: 300px;
+    background-color: #a7978dad;
+    height: 80px;
+    display: inline;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.feature-objects>div{
+  display: inline;
+  margin: 0 5px;
+}
+
+
+

@@ -1,0 +1,25 @@
+
+p{
+    margin: 0
+}
+
+#popup-res-content{
+    margin-bottom: 20px;
+    margin-top:10px;
+}
+
+.popup-res {
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+    top: 180px;
+    left: 30px;
+    min-width: 280px;
+  }
+  
+  .results{
+      margin-bottom: 15px;
+  }

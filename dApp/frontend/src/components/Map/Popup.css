@@ -1,0 +1,57 @@
+
+p{
+    margin: 0
+}
+
+#popup-res-content{
+    margin-bottom: 20px;
+    margin-top:10px;
+}
+
+.popup-res {
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+    top: 180px;
+    left: 30px;
+    min-width: 280px;
+  }
+  .results{
+      margin-bottom: 15px;
+  }
+
+.question{
+    border-top: solid 1px grey;
+}
+
+  .options{
+    margin: auto;
+    width: 150px;
+    text-align: center;
+  }
+
+  .options>button{
+      margin: 10px;
+  }
+
+  label{
+      margin-right: 10px;;
+  }
+
+  #input-field, #input-field1, #input-field2{
+    padding: 0.175rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    width: 150px;
+  }

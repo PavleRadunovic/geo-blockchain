@@ -1,0 +1,17 @@
+.container-spinner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #b5b1b1ad;
+    z-index: 2;
+}
+
+.spinner-border{
+    height: 50px;
+    top: 40vw;
+    left: 60vh;
+    position: absolute;
+    width: 50px;
+}
